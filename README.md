@@ -93,7 +93,7 @@ Stjórn félagsins skal skipuð fimm  mönnum. Kjósa skal formann sérstaklega,
 
 Formaður boðar til stjórnarfundar. Skylt er að halda stjórnarfundi ef stjórnarmaður gerir um það kröfu.  Gerðir stjórnarinnar skulu bókaðar.
 
-###### 12. gr.
+##### 12. gr.
 
 Á aðalfundi skal kjósa tvo skoðunarmenn. Skoðunarmenn skulu fara yfir reikninga  félagsins og staðreyna hvort ársreikningur sé gerður í samræmi við góða bókhaldsvenju. Við þessa vinnu sína skulu skoðunarmenn kanna bókhaldsgögn félagsins og aðra þætti er varða rekstur þess og  stöðu. Þá skulu skoðunarmenn kanna hvort  reikningar séu í samræmi við  ákvarðanir félagsfunda og stjórnar.  Skoðunarmenn skulu árita ársreikninga  félagsins um að endurskoðun hafi farið  fram.
 
