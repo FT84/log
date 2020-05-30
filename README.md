@@ -1,6 +1,6 @@
 # Lög Félags tölvunarfræðinga
 
-Síðast breytt á aðalfundi 23. maí 2019
+Síðast breytt á aðalfundi 28. maí 2020
 
 #### 1. gr.
 
