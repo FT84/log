@@ -26,11 +26,9 @@ Félagið vinnur að markmiði sínu  m.a. með því:
 
 ##### 4. gr.
 
-Þeir sem ljúka B.S. prófi eða æðri gráðu í tölvunarfræðum, þar á meðal tölvunarstærðfræði, frá íslenskum háskóla geta orðið félagsmenn. Jafnframt geta aðrir sem lokið hafa sambærilegu prófi úr viðurkenndum háskóla, að mati stjórnar orðið félagsmenn.
+Þeir sem ljúka B.S. prófi eða æðri gráðu í tölvunarfræðum, þar á meðal tölvunarstærðfræði, frá íslenskum háskóla geta orðið félagsmenn. Jafnframt geta aðrir sem lokið hafa sambærilegu prófi úr viðurkenndum háskóla erlendis, að mati stjórnar orðið félagsmenn. Mat þetta skal byggt á reglum sem samþykktar hafa verið af félagsmönnum  á aðalfundi. 
 
-Mat þetta skal byggt á reglum sem samþykktar hafa verið af félagsmönnum  á aðalfundi. Félagsmaður er undanþeginn greiðslu félagsgjalda fyrsta árið sem hann er í félaginu. Félagsmenn skulu greiða félagsgjald skv. ákvörðun aðalfundar  hverju sinni. Félagsgjald skal greitt fyrir september ár hvert. Þeir félagsmenn sem búsettir eru erlendis vegna náms eða starfa skulu greiða hálft félagsgjald. Félagsmenn eldri en 65 ára og heiðursfélagar skv. [6. gr.](#6-gr) skulu undanþegnir greiðslu félagsgjalds.
-
-Hjón eða sambúðarfólk sem bæði eru skráð í félagið skulu borga hálft félagsgjald hvort.
+Komi félagsmaður fram á þann hátt að ekki samræmist tilgangi félagsins, hag eða heiðri getur stjórn eða tíundi hluti félagsmanna lagt til að honum verði vikið úr félaginu. Endanlega ákvörðun um brottrekstur tekur félagsfundur og þarf 2/3 atkvæða á félagsfundi þar sem slíkt mál er til meðferðar samkvæmt fundarboði.
 
 
 ##### 5. gr.
@@ -51,9 +49,15 @@ Félagsfundur getur að tillögu stjórnar kosið heiðursfélaga, menn sem leys
 
 ##### 7. gr.
 
-Greiði félagsmaður ekki félagsgjald sitt í tvö ár er stjórn félagsins heimilt að skoða slíkt sem úrsögn úr félaginu, en áður en til þess  kemur skal stjórnin senda viðkomandi áskorun um greiðslu ógreiddra félagsgjalda. Óski félagsmaður þess að segja sig úr félaginu skal hann gera það skriflega til stjórnar.
+Félagsmenn skulu greiða félagsgjald eins og það er ákveðið hverju sinni á aðalfundi. Hafi greiðsla ekki verið innt af hendi fyrir næsta aðalfund skoðast slíkt sem úrsögn úr félaginu enda líði a.m.k. 9 mánuðir milli aðalfunda. 
 
-Brjóti félagsmaður ítrekað eða verulega gegn lögum félagsins er stjórn þess heimilt að víkja manni úr félaginu. Stjórn félagsins skal jafnan senda félagsmanni sem gerst hefur brotlegur áminningu fyrst. Félagsmanni er heimilt að skjóta ákvörðun stjórnar til félagsfundar.
+Félagsmaður getur sagt sig úr félaginu með skriflegri beiðni til stjórnar.
+
+Félagsmenn eldri en 65 ára og heiðursfélagar skv. [6. gr.](#6-gr) skulu undanþegnir greiðslu félagsgjalds.
+
+Félagsmenn sem búsettir eru erlendis vegna náms eða starfa skulu greiða hálft félagsgjald.
+
+Hjón eða sambúðarfólk sem bæði eru skráð í félagið skulu borga hálft félagsgjald hvort.
 
 ##### 8. gr.
 
